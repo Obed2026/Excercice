@@ -1,6 +1,6 @@
 Exercice/
-├── Fhashage.py    # Code source principal
-└── README.md      # Documentation
+  Fhashage.py    # Code source principal
+  README.md      # Documentation
 Mon fichier d'Hashage
 Tapez 'quit' pour quitter
 
